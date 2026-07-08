@@ -204,3 +204,6 @@ Key conclusions:
 - All key seeds are fixed (`SEED = 42` + seeds for `random`, `numpy`, `torch`).
 - All steps — from data loading to the final table — are organized as sequential notebook cells.
 - The notebook can be run **end‑to‑end**, with GPU and Hugging Face Hub access, without manual intervention.
+
+
+**See full experiment summary in [GitHub Issue #1](https://github.com/Olmioris/Ru-ner-modernbert-factrueval/issues/1#issue-4840110393)**.
